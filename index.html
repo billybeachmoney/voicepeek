@@ -156,10 +156,12 @@
     }
     .nav-logo {
       font-family: var(--font-display);
-      font-size: 22px;
+      font-size: 17px;
       font-weight: 800;
       letter-spacing: -0.5px;
       color: var(--text);
+      white-space: nowrap;
+      flex-shrink: 0;
     }
     .nav-logo span {
       color: var(--accent);
@@ -690,7 +692,9 @@
     }
     @media (max-width: 540px) {
       .hero { padding: 64px 0 56px; }
-      .btn-primary, .nav-cta { font-size: 14px; padding: 12px 20px; }
+      .btn-primary { font-size: 14px; padding: 12px 20px; }
+      .nav-cta { font-size: 12px; padding: 7px 12px; white-space: nowrap; }
+      .nav-inner { height: 56px; gap: 8px; }
     }
   </style>
 </head>
@@ -700,7 +704,7 @@
   <nav>
     <div class="container">
       <div class="nav-inner">
-        <a href="/" class="nav-logo">Voicepeek</a>
+        <a href="/" class="nav-logo">Voice<span>peek</span></a>
         <a href="#comparison" class="nav-cta">Find Your Voice Tool &rarr;</a>
       </div>
     </div>
@@ -1030,7 +1034,7 @@
     <div class="container">
       <div class="footer-inner">
         <div>
-          <div class="footer-brand">Voicepeek</div>
+          <div class="footer-brand">Voice<span>peek</span></div>
           <p class="footer-tagline">Independent reviews of AI voice &amp; TTS tools</p>
         </div>
         <nav class="footer-links" aria-label="Footer navigation">
