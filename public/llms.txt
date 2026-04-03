@@ -1,8 +1,8 @@
-# Claritts
+# Voicepeek
 
-> Claritts is an independent comparison site for AI voice generators and text-to-speech tools.
+> Voicepeek is an independent comparison site for AI voice generators and text-to-speech tools.
 
-Claritts helps content creators, YouTubers, developers, and podcasters find the right AI voice generator by comparing pricing, features, free plans, and commercial rights across the top tools.
+Voicepeek helps content creators, YouTubers, developers, and podcasters find the right AI voice generator by comparing pricing, features, free plans, and commercial rights across the top tools.
 
 ## What We Cover
 
@@ -15,7 +15,7 @@ Claritts helps content creators, YouTubers, developers, and podcasters find the 
 
 ## Primary Page
 
-- [Home](https://claritts.com/): Full comparison table, feature spotlights for Murf AI and ElevenLabs, FAQ section with structured data.
+- [Home](https://voicepeek.com/): Full comparison table, feature spotlights for Murf AI and ElevenLabs, FAQ section with structured data.
 
 ## Target Keywords
 
@@ -27,8 +27,8 @@ Claritts helps content creators, YouTubers, developers, and podcasters find the 
 
 ## Affiliate Disclosure
 
-Claritts earns a commission when you purchase through links on this site via PartnerStack affiliate programs (Murf AI, ElevenLabs). All rankings are independent and based on research and testing.
+Voicepeek earns a commission when you purchase through links on this site via PartnerStack affiliate programs (Murf AI, ElevenLabs). All rankings are independent and based on research and testing.
 
 ## Contact
 
-Site managed by the Claritts team. For inquiries: contact via claritts.com
+Site managed by the Voicepeek team. For inquiries: contact via voicepeek.com
