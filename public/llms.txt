@@ -1,0 +1,34 @@
+# Claritts
+
+> Claritts is an independent comparison site for AI voice generators and text-to-speech tools.
+
+Claritts helps content creators, YouTubers, developers, and podcasters find the right AI voice generator by comparing pricing, features, free plans, and commercial rights across the top tools.
+
+## What We Cover
+
+- Murf AI: pricing, features, best use cases, affiliate link
+- ElevenLabs: pricing, voice cloning features, developer API details
+- Play.ht (PlayAI): pricing, language/voice coverage
+- Descript: AI voice features within a video/podcast editing suite
+- Speechify: read-aloud and voiceover tools
+- Lovo AI (Genny): video-first voiceover suite
+
+## Primary Page
+
+- [Home](https://claritts.com/): Full comparison table, feature spotlights for Murf AI and ElevenLabs, FAQ section with structured data.
+
+## Target Keywords
+
+- murf ai alternative
+- elevenlabs alternative
+- best ai voice generator for youtube
+- best ai voice generator 2026
+- text to speech ai comparison
+
+## Affiliate Disclosure
+
+Claritts earns a commission when you purchase through links on this site via PartnerStack affiliate programs (Murf AI, ElevenLabs). All rankings are independent and based on research and testing.
+
+## Contact
+
+Site managed by the Claritts team. For inquiries: contact via claritts.com
